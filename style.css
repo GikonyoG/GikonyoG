@@ -10,3 +10,33 @@
     background-size: cover;
     background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(introimage.jpg);
 }
+nav {
+    width: 85%;
+    margin: auto;
+    padding: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 120px;
+    cursor: pointer;
+    color: #fff;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+    
