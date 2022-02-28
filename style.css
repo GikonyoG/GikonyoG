@@ -1,6 +1,7 @@
 * {
     margin: 0%;
     padding: 0%;
+    font-family:Copperplate;
     
 }
 .intro-page {
@@ -53,6 +54,35 @@ nav ul li::after {
 nav ul li:hover::after {
     width: 100%;
 }
+.about_me_section {
+    width: 80% ;
+    margin: auto ;
+    text-align: center ;
+    padding-top: 70px ;
+
+}
+
+.section_title {
+    font-size:36px ;
+    font-weight:600 ;
+
+}
+.about_me_text{
+    margin-top: 5% ;
+    display: flex ;
+    justify-content:space-between ;
+}
+.subtitle {
+    text-align: center;
+    margin: 10px;
+    font-weight: 600;
+
+}
+.paragraph {
+    text-align:justify;
+
+}
+
 
 
 
