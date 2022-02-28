@@ -80,26 +80,26 @@ nav ul li:hover::after {
 
 }
 .paragraph {
-    text-align:justify;
+    text-align:center justify;
 
 }
 .info_text {
     flex-basis:31% ;
+    background:#fff3f3  ;
     border-radius:10px ;
     margin-bottom:5% ;
     padding:20px 12px ;
     box-sizing: border-box ;
 }
 .image1 {
+    padding-top: 30px ;
     width: 20% ;
-}
-.image2{
-    width: 22.5%;
-}
-.image3{
-    width: 30%;
+    border-radius: 5% ;
 }
 
+
+
+    
 
  
 
