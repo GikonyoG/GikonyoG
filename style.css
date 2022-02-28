@@ -39,4 +39,17 @@ nav ul li a {
 }
 
 
-    
+nav ul li::after {
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    transition: 0.5s;
+}
+
+nav ul li:hover::after {
+    width: 100%;
+}
