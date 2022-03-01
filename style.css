@@ -71,7 +71,11 @@ nav ul li:hover::after {
     margin-top: 5% ;
     display: flex ;
     justify-content:space-between ;
+    transition: 0.5s;
     
+}
+.about_me_text :hover{
+    box-shadow: 0  0  20px 0px rgba(0,0,0,0.2);
 }
 .subtitle {
     text-align: center;
@@ -110,7 +114,11 @@ nav ul li:hover::after {
     margin-bottom:5% ;
     padding:20px 12px ;
     box-sizing: border-box  ;
+    transition: 0.5s ;
     
+}
+.team_project :hover{
+    box-shadow: 0  0  20px 0px rgba(0,0,0,0.2);
 }
 
 
