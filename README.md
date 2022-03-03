@@ -11,4 +11,4 @@ The web page is set up with the navigation bar appearing frist followed by the a
 </br> 
 link to live site https://gikonyog.github.io/GikonyoG/
 </br>
-licenced under <a href="<a href="https://github.com/GikonyoG/GikonyoG/blob/master/LICENSE">MIT LICENSE</a">
+licenced under <a href="https://github.com/GikonyoG/GikonyoG/blob/master/LICENSE">MIT LICENSE</a>
