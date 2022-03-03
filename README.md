@@ -9,3 +9,4 @@ I made this web page using html and css
 </br>
 The web page is set up with the navigation bar appearing frist followed by the about me section and finally the projects section where i link to a group project
 </br> 
+link to live site https://gikonyog.github.io/GikonyoG/
